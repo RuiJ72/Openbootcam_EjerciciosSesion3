@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Openbootcmap_EjerciciosSesion3/1.0.0": {
+        "runtime": {
+          "Openbootcmap_EjerciciosSesion3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Openbootcmap_EjerciciosSesion3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

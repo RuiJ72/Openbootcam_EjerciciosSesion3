@@ -1,0 +1,15 @@
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\bin\Debug\net6.0\Openbootcmap_EjerciciosSesion3.exe
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\bin\Debug\net6.0\Openbootcmap_EjerciciosSesion3.deps.json
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\bin\Debug\net6.0\Openbootcmap_EjerciciosSesion3.runtimeconfig.json
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\bin\Debug\net6.0\Openbootcmap_EjerciciosSesion3.dll
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\bin\Debug\net6.0\Openbootcmap_EjerciciosSesion3.pdb
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\obj\Debug\net6.0\Openbootcmap_EjerciciosSesion3.csproj.AssemblyReference.cache
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\obj\Debug\net6.0\Openbootcmap_EjerciciosSesion3.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\obj\Debug\net6.0\Openbootcmap_EjerciciosSesion3.AssemblyInfoInputs.cache
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\obj\Debug\net6.0\Openbootcmap_EjerciciosSesion3.AssemblyInfo.cs
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\obj\Debug\net6.0\Openbootcmap_EjerciciosSesion3.csproj.CoreCompileInputs.cache
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\obj\Debug\net6.0\Openbootcmap_EjerciciosSesion3.dll
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\obj\Debug\net6.0\refint\Openbootcmap_EjerciciosSesion3.dll
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\obj\Debug\net6.0\Openbootcmap_EjerciciosSesion3.pdb
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\obj\Debug\net6.0\Openbootcmap_EjerciciosSesion3.genruntimeconfig.cache
+F:\C# Projects\OpenBootcamp\Sessão 3\Openbootcmap_EjerciciosSesion3\Openbootcmap_EjerciciosSesion3\obj\Debug\net6.0\ref\Openbootcmap_EjerciciosSesion3.dll
